@@ -1,7 +1,7 @@
 ---
 name: Launchit
 desc: 'The ultimate launcher for TVs and (maybe) tablets.'
-site: hollowtechnology.github.io/Launchit/
+site: https://hollowtechnology.github.io/Launchit/
 tags:
 - html
 - javascript
